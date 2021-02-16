@@ -1,5 +1,4 @@
 # maximun subarray using divid and conquer
-===
 
 ## build:
 ```bash
@@ -13,7 +12,7 @@ make
 
 ## C source loc:
 ```bach
-src
+src/main.c
 ``` 
 
 
